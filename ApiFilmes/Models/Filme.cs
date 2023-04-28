@@ -17,5 +17,6 @@ public class Filme
     [Required]
     [Range(70, 600, ErrorMessage ="A duração máxima é de 70 a 600 minutos")]
     public int Duracao { get; set; }
+    public virtual ICollection<Sessao> Sessoes { get; set; }
 
 }
