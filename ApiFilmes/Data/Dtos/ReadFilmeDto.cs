@@ -10,4 +10,4 @@ namespace ApiFilmes.Data.Dtos
         public DateTime HoraDaConsulta { get; set; } = DateTime.Now;
         public ICollection<ReadSessaoDto> Sessoes { get; set; }
     }
-}//teste
+}

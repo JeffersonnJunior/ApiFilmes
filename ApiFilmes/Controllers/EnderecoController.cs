@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using ApiFilmes.Data.Dtos;
 using ApiFilmes.Data;
 using ApiFilmes.Models;
-//teste
+
 namespace FilmesApi.Controllers
 {
     [ApiController]

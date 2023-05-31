@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-//teste
+
 namespace ApiFilmes.Models
 {
     public class Cinema
