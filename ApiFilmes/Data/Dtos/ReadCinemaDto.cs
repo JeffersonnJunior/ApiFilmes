@@ -9,4 +9,4 @@ namespace ApiFilmes.Data.Dtos
         public ReadEnderecoDto ReadEnderecoDto { get; set; }
         public ICollection<ReadSessaoDto> Sessoes { get; set; }
     }
-}
+}//teste
