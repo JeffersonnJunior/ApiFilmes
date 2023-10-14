@@ -1,1 +1,1 @@
-Este repositório contém uma API RESTful que adere estritamente aos princípios e padrões REST. A API oferece suporte aos métodos HTTP padrão, incluindo POST, GET, PUT e DELETE, para interações eficazes e seguras com os recursos.
+Este repositório contém uma API RESTful que segue os princípios REST e utiliza os métodos HTTP padrão (POST, GET, PUT e DELETE) para interações seguras com os recursos. O banco de dados é gerenciado eficientemente através do Entity Framework, garantindo uma camada de persistência flexível e robusta.
